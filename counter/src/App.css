@@ -1,0 +1,41 @@
+.container{
+    margin: 300px 150px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.btn{
+    padding: 10px;
+    text-transform: uppercase;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    background-color: #f6feff;
+}
+
+.btn-container{
+    margin: 50px 20px;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+span{
+    font-weight: 400;
+    font-size: 100px;
+    font-display: flex;
+}
+
+
+.container_new{
+    border-radius: 20px;
+    padding: 60px 30px 30px 50px;
+    width: 30%;
+    height:300px;
+    margin: 40px auto;
+    margin-top: 200px;
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    text-align: center;
+
+}
