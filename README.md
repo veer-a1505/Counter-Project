@@ -1,2 +1,3 @@
 # Counter-Project
-Counter project using react hook concept.
+Created simple counter project using reactJS and react hook library.
+which increment and decrement and reset the count value.
